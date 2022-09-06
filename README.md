@@ -1,5 +1,9 @@
-GFAP is developed for annotating plant genes.
+CIDP is a software for designing sgRNAs in CRISPR system.
 
-please note that the "space" should not be contained in the pathway of GFAP. For example, the pathway: D:/gfapsoftware/ is ok, 
+So many sgRNA-design tools have been published. Most of them require users to select a closely-related species for completing the designing process. 
 
-but if it was D:/gfap software/, the GFAP will not work.
+However, there are still huge differences in sequences between the species of interest and the closely-related species. Not to mention that some researchers have difficulties in finding a closely-related species from the database of the sgRNA-design tools. The situation is particularly serious in plant research。
+
+Therefore, we developed CIDP that allows users to build the database using the input genomic sequences instead of choosing a closely-related species. Furthermore, apart from designing sgRNAs, CIDP can perform the functions of designing primers and extracting required sequences from genome-sequence files.
+
+
