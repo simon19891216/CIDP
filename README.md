@@ -11,3 +11,8 @@ CIDP is an open-source software. The source code will be published as soon as th
 ## Install
 
 Please note: The software can be downloaded from the ["Releases" ](https://github.com/simon19891216/CIDP/releases/tag/CIDPv1.2) of this  website  (on the right side). If you have some downloading problems, please don't hesitate to contact me at xudongzhuanyong@163.com. For Chinese users, you can download the related tools from the ["Releases"](https://gitee.com/SimonX19891216/CIDP/releases/tag/CIDP) of our gitee account.
+
+## Cite
+
+Dong Xu, Jin Zhang, Xianjia Zhao, Yuze Hou, Heling Jiang, Wenchuang He, Xiongfeng Ma, Weihua Pan, CIDP: A multi-functional platform for designing CRISPR sgRNAs, Horticulture Research, 2023;, uhad092, https://doi.org/10.1093/hr/uhad092
+
