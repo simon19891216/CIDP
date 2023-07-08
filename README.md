@@ -14,5 +14,5 @@ Please note: The software can be downloaded from the ["Releases" ](https://githu
 
 ## Cite
 
-Dong Xu, Jin Zhang, Xianjia Zhao, Yuze Hou, Heling Jiang, Wenchuang He, Xiongfeng Ma, Weihua Pan, CIDP: A multi-functional platform for designing CRISPR sgRNAs, Horticulture Research, 2023;, uhad092, https://doi.org/10.1093/hr/uhad092
+Xu D, Zhang J, Zhao X, Hou Y, Jiang H, He W, Ma X, Pan W: CIDP: a multi-functional platform for designing CRISPR sgRNAs. Horticulture Research 2023, 10(7):uhad092. https://doi.org/10.1093/hr/uhad092
 
